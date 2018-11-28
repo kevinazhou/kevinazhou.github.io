@@ -1,0 +1,22 @@
+2. The worst possible array for pivot point selection is this:
+12 10 8 6 4 2 1 3 5 7 9 11
+The reason why is because the worst pivot is the pivot point that
+is the second highest value. It would be the highest, but since you are
+choosing the median it has to be the second highest. The closer to the 
+second highest the better. To get this value chosen, you put the higher 
+values on the outside of the array so that L and R are more likely to be
+higher values, since L if always the start and R is the end of unsorted
+portion. Thus a rather high value is chosen as the partition, but
+since the values in the middle aren't as high as the outer
+values, there will be a lot of swapping as the value higher than the
+pivot is moved up. Basically, the highest possible value being
+chosen for each partition will make the worst case, and the above
+array achieves that.
+
+4(c). kn * log(k). k because the sort will be done to k arrays, and
+n*log(k) as that is what merging cost with min priority queue. Thus,
+kn*log(k). When k=n, this algorithm resembles selection sort, as 
+the array is split into n arrays of size 1, and then sorted, with 
+the minimum going to the front, etc. This is basically selection sort.
+The runtime in this case is n^2. This is why the test cases where 
+k got closer and closer to n took extremely long.
