@@ -1,0 +1,8 @@
+name:, avg(ms), max(ms)
+EndFrame:, 1.437799, 101.387200
+DrawingObjects:, 0.093464, 0.582200
+GameRender:, 1.593266, 101.549000
+LimitFPS:, 13.128148, 14.478100
+UploadBuffer:, 0.006030, 0.013500
+GameUpdate:, 1.128754, 1.488100
+BeginFrame:, 0.013774, 0.027600
