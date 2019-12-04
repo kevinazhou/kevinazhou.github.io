@@ -1,0 +1,35 @@
+﻿  assign3.cpp
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(471,26): warning C4018: '<': signed/unsigned mismatch
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(492,25): warning C4018: '<': signed/unsigned mismatch
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(513,27): warning C4018: '<': signed/unsigned mismatch
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(524,28): warning C4018: '<': signed/unsigned mismatch
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(540,28): warning C4018: '<': signed/unsigned mismatch
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(647,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : see declaration of 'stricmp'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(649,12): warning C4101: 'error': unreferenced local variable
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(660,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(662,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(669,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(671,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(678,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(680,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(686,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(693,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(702,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(704,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : see declaration of 'stricmp'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(726,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : see declaration of 'stricmp'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(743,1): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(549): message : see declaration of 'stricmp'
+A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\assign3\assign3.cpp(696,8): warning C4101: 'str': unreferenced local variable
+  assign3.vcxproj -> A:\Courses\CSCI420\assign3_starterCode_windowsVS2017\assign3\Debug\assign3.exe
